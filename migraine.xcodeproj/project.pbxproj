@@ -290,6 +290,7 @@
 				CODE_SIGN_ENTITLEMENTS = migraine/migraine.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = 8SB69VS9YK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = migraine/Info.plist;
@@ -328,6 +329,7 @@
 				CODE_SIGN_ENTITLEMENTS = migraine/migraine.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = 8SB69VS9YK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = migraine/Info.plist;
